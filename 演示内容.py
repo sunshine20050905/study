@@ -4,3 +4,6 @@ with open('./演示.txt', 'r') as f:# 用with open语句打开文件，并将文
     # 用read()方法读取文件内容并打印出来
 
     print(f.read())
+
+
+    print（
