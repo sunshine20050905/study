@@ -1,0 +1,6 @@
+pip install requests-i http://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.com.txt:pip安装1pip install XXX-i http://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.compip安装.txt:1
+pip install XXX-i http://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.compip安装.txt:1
+xxx是包名
+xxx是包名
+
+pip install requests -i http://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.com

@@ -6,4 +6,3 @@ with open('./演示.txt', 'r') as f:# 用with open语句打开文件，并将文
     print(f.read())
 
 
-    print（
